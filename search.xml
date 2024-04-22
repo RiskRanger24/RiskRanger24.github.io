@@ -62,7 +62,10 @@
 <h3 id="Deploy-to-remote-sites-2"><a href="#Deploy-to-remote-sites-2" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+<p>basic footnote<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup><br>here is an inline footnote<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup><br>and another one<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup><br>and another one<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">basic footnote content</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">inline footnote</span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;">paragraph
+footnote
+content</span><a href="#fnref:3" rev="footnote"> ↩</a></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">4.</span><span style="display: inline-block; vertical-align: top;">footnote content with some <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a></span><a href="#fnref:4" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       <categories>
         <category>博客测试</category>
       </categories>
