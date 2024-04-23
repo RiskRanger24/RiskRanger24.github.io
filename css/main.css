@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6f3305;
+  background: #2aee8c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2680,27 +2680,27 @@ body {
 .main-inner > .tabs-comment,
 .main-inner > .comments,
 .main-inner > .pagination {
-  background: #f5f5f5; /* 调整背板颜色为浅灰色 */
+  background: rgba(245,245,245,0.42);
 }
 body {
-  color: #333; /* 调整主体字体颜色为深灰色 */
+  color: #000;
 }
 .posts-expand .post-title-link {
-  color: #333; /* 调整文章标题颜色为深灰色 */
+  color: #000;
 }
 .posts-expand .post-meta-container {
-  color: #333; /* 调整日期颜色为深灰色 */
+  color: #800;
 }
 .sidebar {
-  opacity: 0.7; /* 侧边栏透明度调整为0.7 */
+  opacity: 0.7;
 }
 .header-inner {
-  background: rgba(255,255,255,0.7); /* 调整菜单栏背景色为白色带有0.7的透明度 */
+  background: rgba(255,255,255,0.7);
 }
 .popup {
-  opacity: 0.5; /* 调整搜索框透明度为0.5 */
+  opacity: 0.5;
 }
 .main-inner {
-  background-color: rgba(255,255,255,0.9); /* 调整主体背景为白色带有0.9的透明度 */
-  padding: 0px 40px 40px 40px; /* 调整组件位置 */
+  background-color: rgba(255,255,255,0);
+  padding: 0px 40px 40px 40px;
 }
